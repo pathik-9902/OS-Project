@@ -1,0 +1,25 @@
+.container2{
+    margin-top: 150px;
+    margin-left: 50px;
+}
+
+
+.btn1 {
+    transition-duration: 0.4s;
+    margin: 20px;
+  }
+  
+.btn1:hover {
+    background-color: #4c4eaf; /* Green */
+    color: white;
+  }
+
+.btn2 {
+    transition-duration: 0.4s;
+    margin: 20px;
+  }
+  
+.btn2:hover {
+    background-color: #d4bb17; /* Green */
+    color: white;
+  }
